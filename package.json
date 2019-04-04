@@ -1,0 +1,15 @@
+{
+  "name": "stocks-nodejs-rest-service",
+  "version": "1.0.0",
+  "description": "Stock ticker Node.js REST API",
+  "main": "app.js",
+  "author": "Dinesh Ilindra",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "yahoo-stock-prices": "^1.0.1"
+  }
+}
