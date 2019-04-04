@@ -1,4 +1,6 @@
-# get stock price from yahoo api for given symbol
+# get stock price from yahoo / alpha api for given symbol
 
-example = /stock/get/AAPL
+examples -  
+    /stock/yahoo/AAPL
+    /stock/alpha/MSFT
 
